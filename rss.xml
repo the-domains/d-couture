@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[D Couture]]></title>
+        <description><![CDATA[D Couture]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 25 Feb 2016 01:25:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>apparel designer couturiere</p>]]></description>
+            <link>undefined1108c5f7-1281-4734-906d-3186e42966e1/index.html</link>
+            <guid isPermaLink="false">1108c5f7-1281-4734-906d-3186e42966e1</guid>
+            <pubDate>Thu, 25 Feb 2016 01:25:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
